@@ -616,7 +616,7 @@ let batida = document.querySelector('#batida')
 
 
 var sampler = new Tone.Sampler({
-   "C3" : "1524_1.wav"
+   "C3" : "1524_1.mp3"
    
 
 }, function(){
